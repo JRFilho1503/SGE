@@ -71,3 +71,11 @@ curl http://localhost:8000/api/v1/... \
 ---
 
 Projeto de estudo/prática em Django + DRF. Dúvidas ou sugestões são bem-vindas.
+
+## 🧪 Testes
+
+Suíte de API (DRF `APITestCase`) cobrindo **autenticação (401)**, **permissão de escrita (403)** e **CRUD** — ver `brands/tests.py`.
+
+```bash
+python manage.py test
+```
