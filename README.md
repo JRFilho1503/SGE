@@ -4,6 +4,7 @@
 ![Django](https://img.shields.io/badge/Django%204.2-092E20?logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+[![Django Tests](https://github.com/JRFilho1503/SGE/actions/workflows/django.yml/badge.svg)](https://github.com/JRFilho1503/SGE/actions/workflows/django.yml)
 
 Sistema de **gestão de estoque** feito em **Django**: cadastro de produtos, controle de entradas e saídas, e um **painel de métricas** (custo, venda, lucro e quantidade). Tem **interface web** (com login) e uma **API REST** protegida por **JWT**.
 
